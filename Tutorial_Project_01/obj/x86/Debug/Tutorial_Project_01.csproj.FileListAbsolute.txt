@@ -1,0 +1,6 @@
+/Users/Magnus/Projects/Tutorial_Project_01/bin/Debug/Tutorial_Project_01.exe
+/Users/Magnus/Projects/Tutorial_Project_01/bin/Debug/Tutorial_Project_01.pdb
+/Users/Magnus/Projects/Tutorial_Project_01/obj/x86/Debug/Tutorial_Project_01.csprojResolveAssemblyReference.cache
+/Users/Magnus/Projects/Tutorial_Project_01/obj/x86/Debug/Tutorial_Project_01.csproj.CoreCompileInputs.cache
+/Users/Magnus/Projects/Tutorial_Project_01/obj/x86/Debug/Tutorial_Project_01.exe
+/Users/Magnus/Projects/Tutorial_Project_01/obj/x86/Debug/Tutorial_Project_01.pdb
